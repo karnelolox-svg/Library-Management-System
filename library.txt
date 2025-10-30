@@ -1,0 +1,4 @@
+J.R.R. Tolkien,The Hobbit,9780345339683
+Frank Herbert,Dune,	9780441172719
+Kathy Sierra,Head First Java,9780596009205
+George Orwell,1984,9780451524935
